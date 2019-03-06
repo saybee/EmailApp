@@ -27,7 +27,6 @@ class Message extends Component {
                         messagebox: response.data
                     })
                 }
-                console.log("this.state.currentemail" + this.state.messagebox)
 
             })
     }
