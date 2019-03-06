@@ -19,6 +19,89 @@
   color: white;
 }
 
+.MessageThread {
+  margin: 2% 0% 2% 5%;
+  font-size: 20px;
+}
+
+.jumbotron{
+  background-color: #dee;
+}
+
+.MessageTable{
+  display: grid;
+}
+
+.SenderName{
+  margin-left: 5%;
+}
+
+.MessageSubject{
+  margin-left: 40%;
+  margin-top: -2%;
+}
+
+.MessageCheckBox{
+  margin-top: 5%;
+}
+
+.MessageThreadHR {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 1px solid #000;
+}
+
+.ToCreate {
+  margin: 3% 0% 2% 5%;
+  font-size: 20px;
+}
+
+.ToCreateInput {
+  width: 43.5%;
+}
+
+.CreateSubject{
+  margin: 3% 0% 2% 5%;
+  font-size: 20px;
+}
+
+.CreateSubjectInput{
+  width: 40.5%;
+}
+
+.TextAreaCreate {
+  margin: 1% 0% 2% 3%;
+  width: 94%;
+  height: 400px;
+}
+
+.CreateButton{
+  margin-left: 87%;
+  width: 10%;
+  margin-top:-1%;
+}
+
+.MessageThreadButtons{
+  width:40%;
+  margin-left: 5%;
+  height:45px;
+}
+
+.MTDivButtons {
+  margin-left: 73%;
+  margin-top: 25%;
+}
+
+.MessageFont{
+  font-size: 20px;
+}
+
+.ListButton{
+  width:50%;
+  height: 60px;
+  font-size: 200%;
+}
+
 .App-link {
   color: #61dafb;
 }
